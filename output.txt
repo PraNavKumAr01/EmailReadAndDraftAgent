@@ -1,0 +1,21 @@
+I have drafted all of the necessary email responses for you. Here they are:
+
+1. Thread ID: 18ece14663ed6934
+   Draft: kaggle-noreply@google.com|Re: Titanic: Machine Learning from Disaster|Hi g Feature Extraction,
+   Thanks for your question about the 'Age' feature in the Titanic: Machine Learning from Disaster thread. Age is a continuous variable that represents the age of passengers at the time of the Titanic disaster. If you have any more questions, feel free to ask!
+
+2. Thread ID: 18ecdd14455b8f11
+   Draft: learn@itr.mail.codecademy.com|Learn SQL Basics for Data Science|Hi there,
+   Thanks for sharing the opportunity to learn 'Learn SQL Basics for Data Science' for free. I'm interested in this course and will make sure to sign up before it expires in 24 hours.
+
+3. Thread ID: 18ecb727c402597e
+   Draft: ieee@deliver.ieee.org|RE: IEEE Membership Expiration on 03/31/2023|Hi there,
+   Thank you for reminding me that my IEEE Membership expires on 03/31/2023. I will renew my membership using the link you provided.
+
+4. Thread ID: 18ecab3aa4ba2b05
+   Draft: english-personalized-digest@quora.com|Quora Digest for Today|Hi,
+   Thank you for preparing a personalized digest for me. I look forward to reading the latest questions, answers, and stories from people I follow.
+
+5. Thread ID: 18ecb30249fe3796
+   Draft: nike@notifications.nike.com|Nike Run Club Invitation|Hi there,
+   Thanks for the invitation to join the Nike Run Club. I'm excited to join the community of runners who share tips, inspiration, and motivation.
