@@ -12,10 +12,6 @@ class EmailFilterCrew():
 		self.filter_agent = agents.email_filter_agent()
 		self.action_agent = agents.email_action_agent()
 		self.writer_agent = agents.email_response_writer()
-		self.manager = ChatGroq(
-			api_key = os.getenv("GROQ_API_KEY"),
-			model = "mixtral-8x7b-32768"
-		)
 
 	def kickoff(self, state):
 		print("### Filtering emails")
@@ -28,8 +24,6 @@ class EmailFilterCrew():
 				tasks.draft_responses_task(self.writer_agent)
 			],
 			verbose=True,
-			manager_llm = self.manager,
-			process = Process.heirarchical,
  		)
 		result = crew.kickoff()
 		return {**state, "action_required_emails": result}
