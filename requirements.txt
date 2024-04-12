@@ -1,6 +1,7 @@
 crewai
 langgraph
 langchain-community
+langchain_groq
 python-dotenv
 google-search-results
 google-api-python-client
