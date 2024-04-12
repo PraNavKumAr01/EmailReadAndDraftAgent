@@ -28,8 +28,8 @@ class EmailFilterCrew():
 				tasks.draft_responses_task(self.writer_agent)
 			],
 			verbose=True,
-			process = Process.heirarchical,
 			manager_llm = self.manager,
+			process = Process.heirarchical,
  		)
 		result = crew.kickoff()
 		return {**state, "action_required_emails": result}
